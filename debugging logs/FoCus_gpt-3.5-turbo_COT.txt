@@ -1,0 +1,3 @@
+Failed to parse JSON for response from index 12: {   "reasoning": "The user is interested in educational programs and worried about endangered species. I will provide information related to these aspects to align with their interests.",   "response": "The Prospect Park Zoo is actively involved in educational programs and the restoration of endangered species populations. They offer children's educational programs and have a Discovery Center where kids can learn about laboratory practices. Additionally, the zoo is home to 864 animals representing 176 species, contributing to conservation efforts. It's a great place to visit for both learning and supporting wildlife conservation!", }
+Error: Expecting property name enclosed in double quotes: line 1 column 641 (char 640)
+

@@ -1,0 +1,12 @@
+Failed to parse JSON for response from index 661: {
+  "response": "Ah, my dear! While I may not be the best at whipping up modern vegan dishes, I can certainly share a delightful memory. Back in my day, we made simple meals with fresh vegetables from the garden. How about a hearty salad with greens, tomatoes, and a splash of olive oil? You could even add some roasted chickpeas for protein! And if you enjoy a glass of wine, a nice red would pair beautifully with it. Just remember to dance a little while you cook, it keeps the spirit young
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response from index 746: {
+  "response": "It was a mix of emotions, really. Being adopted meant I had a loving home, but I often wondered about my biological family. I remember feeling a bit out of place sometimes, especially during family gatherings. My parents were wonderful, but they didn't quite understand my fear of clowns, which stemmed from a traumatic experience in my childhood. They often tried to encourage me to socialize, like when my dad sets me up on blind dates, but I prefer spending my time in the garden or working on projects with my
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response from index 780: {
+  "response": "A real horse ranch is an amazing place! It's filled with the sounds of horses neighing and the smell of fresh hay. You can see the horses running in the fields, and if you're lucky, you might even get to ride one. It's a great experience to be around such beautiful animals and to learn about how they are cared for. Plus, there's often a lot of hard work involved, like tending to the fields and feeding the horses, but it's all worth it when you get to spend time with them. If
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+

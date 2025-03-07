@@ -1,0 +1,4 @@
+Failed to parse JSON for response from index 664: {
+  "response": "Gabrielle Roth was a dancer and a pioneer in the field of movement and healing. Her '5Rhythms' is a dynamic movement practice that encourages people to connect with their bodies and express themselves through dance. The five rhythms are Flowing, Staccato, Chaos, Lyrical, and Stillness, each representing different emotional states and energies. It's a great way to explore movement and release stress, which might be refreshing for someone like you who enjoys the outdoors and the freedom of hiking on glaciers.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+

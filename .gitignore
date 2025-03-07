@@ -1,0 +1,17 @@
+datasets/
+auth_keys.txt
+LLMs/
+Tokenizers/
+GoogleNews-vectors-negative300.bin
+.venv
+*copy*.ipynb
+*.bin
+Fine-tuning/dnli/dnli/dialogue_nli_extra
+Fine-tuning/dnli/dnli/dialogue_nli
+*.gz
+Fine-tuning/dnli/repaired_test.json
+Fine-tuning/dnli/repaired_train.json
+punkt
+Fine-tuning/dnli
+Fine-tuning/models
+Fine-tuning/output
