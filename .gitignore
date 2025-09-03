@@ -17,3 +17,5 @@ Fine-tuning/models
 Fine-tuning/output
 
 .env
+
+*.pptx
