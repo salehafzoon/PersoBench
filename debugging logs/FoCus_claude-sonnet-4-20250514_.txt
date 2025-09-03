@@ -1,0 +1,52 @@
+[JSON ERROR] Index 0 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 1 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 2 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 3 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 4 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 5 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 6 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 7 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 8 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 9 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 10 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 11 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+
+[JSON ERROR] Index 12 — Failed to parse: {
+  "reasoning": "Based on the personas, I serve in the Army and find forts interesting, which makes me knowledgeable about military installations. I've never been to NYC but wish to visit it. The user is asking about Fort Hamilton's current defensive status. As someone who serves in the Army and finds forts interesting, I would have knowledge about modern military installations and their purposes. I should provide informative details about Fort Hamilton's current role while expressing my personal interest in visiting it since it's in NYC, a
+Error: Unterminated string starting at: line 2 column 16 (char 17)
+

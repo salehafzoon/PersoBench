@@ -1,0 +1,77 @@
+[JSON ERROR] Index 0 — Failed to parse: ```json
+{
+  "response": "Nazareth House has a rich history, spanning from 1924 to 1939.  It started as a single building, and over the years, expanded to include a convent, chapel, a hostel, and a nursing home.  The complex's location on a hill overlooking Wynnum North Road gives it a prominent position in the area.  I hope this provides a good overview of the history and development of the house."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 1 — Failed to parse: ```json
+{
+  "response": "The Truman Galusha House was used as a stop on the Underground Railroad.  It's fascinating how these historic homes played a role in helping enslaved people escape to freedom.  I'm always interested in learning more about that part of history."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 2 — Failed to parse: ```json
+{
+  "response": "The Marion Palace Theatre is a beautiful example of Spanish Colonial Revival architecture.  It's a style you've expressed interest in, and the details of the building, like the stucco, arches, and decorative elements, would likely appeal to you.  It's a really impressive example of the era, and I bet you'd be fascinated by the craftsmanship and design choices."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 3 — Failed to parse: ```json
+{
+  "response": "Technische Universität Darmstadt is ranked highly in Germany and internationally for its scientific programs.  Precise rankings vary depending on the specific ranking system, but it consistently appears in the top tier of technical universities in the country."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 4 — Failed to parse: ```json
+{
+  "response": "There's a library in Boston, Lincolnshire, but I don't have specific details about it.  You might be able to find information about it online.  Beyond the church, there are likely other historical buildings and attractions in the town.  You could also look into local museums or historical societies for more suggestions."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 5 — Failed to parse: ```json
+{
+  "response": "Oakland University offers a wide range of undergraduate and graduate programs.  It's a public research university, so you can expect strong research opportunities and faculty expertise.  They also have various student organizations and extracurricular activities, which could be a good fit for you given your interest in the area."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 6 — Failed to parse: ```json
+{
+  "response": "The Westin St. Francis is owned by Marriott International."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 7 — Failed to parse: ```json
+{
+  "response": "Besides the lava domes and the lake, Lassen Volcanic National Park offers a variety of hiking trails, including the scenic views of the surrounding landscape.  You can also explore the park's visitor center to learn more about the park's geology and history.  There are also opportunities for wildlife viewing, depending on the time of year."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 8 — Failed to parse: ```json
+{
+  "response": "It was closely connected to the College of New Jersey, which later became Princeton University."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 9 — Failed to parse: ```json
+{
+  "response": "The National War Memorial, located on the north edge of Adelaide's city center, was dedicated to those who served in World War I.  While you expressed dislike for the war, the memorial stands as a tribute to their service.  In 2001, a three-month restoration project was completed, focusing on the bronze and stonework details, and reinforcing the foundations.  This project marked the 70th anniversary of the memorial."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+
+[JSON ERROR] Index 10 — Failed to parse: ```json
+{
+  "response": "The Robie House was designated a National Historic Landmark in 1963."
+}
+```
+Error: Expecting value: line 1 column 1 (char 0)
+

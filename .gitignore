@@ -15,3 +15,5 @@ punkt
 Fine-tuning/dnli
 Fine-tuning/models
 Fine-tuning/output
+
+.env
