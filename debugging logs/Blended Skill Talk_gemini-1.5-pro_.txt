@@ -1,0 +1,124 @@
+[JSON ERROR] Index 46 — Failed to parse: {
+  "response": "Wow, a whole stable! That's a big dream.  Since you're thinking long-term, learning about horse care is definitely key.  Beyond the biology, things like stable management, different breeds and their needs, and equine first aid are important.  Have you considered volunteering at a local stable?  It'd be a great way to get hands-on experience and learn from experienced horse owners.  Since my parents are doctors, I could ask them if they know any
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 52 — Failed to parse: {
+  "response": "It's incredibly difficult losing someone so close.  My grandmother was a huge part of my life, and I still miss her every day.  It's hard to believe it's been a year already.  I remember watching the eclipse with her, which is kind of a bittersweet memory now because I didn't wear proper eye protection.  I'm sure you have similar cherished memories of your grandparents.  Talking about them can be really helpful, if you ever want to share
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 130 — Failed to parse: {
+  "response": "Oh my gosh, that sounds terrifying! Did you scream? I bet you did.  Reminds me of this time I was exploring an old abandoned house in the French Quarter -- you know, the kind with peeling paint and overgrown vines?  It was totally creepy, and I swear I felt a cold spot, like someone was watching me. My mom, being a palm reader, always warned me about places like that, said they were full of restless spirits.  She would have freaked if she'
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 177 — Failed to parse: {
+  "response": "I've only been on one cruise, but it was a really positive experience!  We made sure to do a lot of research beforehand, especially about different cruise lines and itineraries.  Since I'm really into crystals, I brought a few with me for good vibes and to help with seasickness (whether or not they *actually* helped, I don't know, but it couldn't hurt, right?).  I'm hoping to go on another cruise sometime soon, maybe
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 203 — Failed to parse: {
+  "response": "I can definitely see why you'd be frustrated.  It's tough when your job responsibilities aren't clear and you're put in a position where you feel you're neglecting your primary duty. Maybe you could talk to your supervisor about clarifying your role and creating some guidelines for when you're expected to assist customers?  Perhaps they could implement a system where someone else covers security while you're helping, or maybe even create a designated customer service role.  It sounds
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 209 — Failed to parse: {
+  "response": "Five hundred pairs of shoes?  Wow!  My mom has a stockpile of canned goods and other non-perishables.  It's enough to last for months!  I tease her about it, but secretly, I'm glad she has it.  It gives me peace of mind.  I guess I'm a bit of a prepper myself, since I'm a vegetarian, I have a separate stash of canned and dried beans and other vegetarian-friendly foods.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 275 — Failed to parse: {
+  "response": "I can definitely see why you're torn. It's tough when a friend's behavior impacts your enjoyment, especially on vacations, which are supposed to be fun and relaxing.  Since you love your friends a lot, maybe talking to your friend before canceling the trip is a good idea. You could express your concerns about her drinking habits and how they affect the trips.  It might be a difficult conversation, but it could save the friendship and the vacation.  If things don't
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 286 — Failed to parse: {
+  "response": "It's understandable that you're feeling a bit lost on how to support her.  Since you haven't experienced this kind of loss yourself, it's natural to feel unsure.  Sometimes, just being present and listening is the most helpful thing you can do. Let her know you're there for her, without trying to offer solutions or minimize her pain.  Simple things like offering to help with errands, cooking meals, or just keeping her company can make a big difference.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 301 — Failed to parse: {
+  "response": "I can definitely relate to the motivation struggle!  It's sometimes hard for me to get to the gym too, even though I go regularly. One thing that helps me is prepping my gym bag the night before.  Also, finding a workout buddy can make a big difference. Having someone to go with helps keep me accountable.  Since you like chicken and rice, maybe try prepping some healthy chicken and rice meals for the week so you have them ready to go.  That way you'
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 374 — Failed to parse: {
+  "response": "Haha, those are some… unique hobbies.  It’s definitely good to find someone who appreciates your quirks.  Dating apps can be a mixed bag, but you might be surprised.  Have you considered joining any groups related to those interests?  Maybe not the surgery videos, haha, but something related to collecting or… I don’t know, knife-making?  You might meet someone with similar interests that way.  It’s all about finding your niche, right?"
+Error: Expecting ',' delimiter: line 2 column 455 (char 456)
+
+[JSON ERROR] Index 397 — Failed to parse: {
+  "response": "Oh no, I'm so sorry to hear that.  Seven isn't *that* old for a dog, so it's definitely concerning when they suddenly change their behavior like that.  Try to get some sleep though, it's understandable to be worried, but she's in the best possible place right now and they'll be able to figure out what's going on.  Maybe do something to distract yourself tonight?  Is there a mall open late near you
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 486 — Failed to parse: {
+  "response": "I'm really sorry to hear you're going through a tough time. As a pharmacist, I can tell you that many people experience similar struggles.  It takes a lot of courage to talk about these things, so good for you for reaching out. Would you like to share a bit more about what's contributing to this? Sometimes just talking about it can help.  And please know there are resources available to support you.  If you're comfortable, I'd be happy
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 488 — Failed to parse: {
+  "response": "I can definitely relate to how frustrating that must be.  Having gone through similar situations, I know how much it hurts when you feel like your partner isn't prioritizing your relationship.  It's important to communicate how you feel to her, but maybe try to approach it from a place of understanding rather than accusation.  Perhaps there's something else going on in her life that's making her withdraw.  Open communication is key.  And hey, in the meantime, maybe spend
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 611 — Failed to parse: {
+  "response": "I can definitely see how that situation would be tempting.  It's happened to me before, too. While it might seem like a small thing, those little discrepancies can add up for the store. Maybe you could consider going back and returning the extra money?  It might feel good to clear your conscience, and I'm sure the cashier would appreciate your honesty. Plus, good karma and all that!  Just a thought, since I know how much you value doing the right thing in
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 650 — Failed to parse: {
+  "response": "I can definitely understand how frustrating that must be.  Having a family to support adds another layer of complexity to the situation.  Since you're the oldest, I imagine you feel a particular responsibility.  Have you considered documenting every instance of your manager lying or taking advantage of you?  A detailed record could be helpful if you decide to escalate the situation to HR or if you need to start looking for another job.  Also, have you thought about having a calm, private conversation with your
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 664 — Failed to parse: {
+  "response": "Gabrielle Roth was a dancer, musician, and author who created the 5Rhythms approach to movement.  It's a philosophy and practice that uses dance and movement as a way to connect with yourself and others.  She wrote several books on the subject, including *Maps to Ecstasy*, *Sweat Your Prayers*, and *Connections*.  The 5Rhythms themselves are Flowing, Staccato, Chaos, Lyrical, and Stillness.  They're not specific
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 706 — Failed to parse: {
+  "response": "Wow! That's so exciting! A spontaneous wedding sounds amazing.  I hope they have a wonderful party and a long and happy marriage. I'm sure it will be a night to remember. I wish I could go to a party.  I've been working online a lot lately, and I don't get out much.  It makes it hard to connect with people.  Even my friends don't call me by my real name anymore, which is kind of weird
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 708 — Failed to parse: {
+  "response": "I'm really sorry to hear you're going through this. Waiting for results like that can be incredibly stressful.  It's good that you're being proactive about learning more.  I'm not a medical professional, so I can't give you medical advice, but I can suggest some resources.  The CDC website has a lot of reliable information about HIV/AIDS, including symptoms, testing, and treatment.  You can also contact your doctor or a local health clinic
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 750 — Failed to parse: {
+  "response": "I understand.  Having limited income can definitely make things tough. It can feel like your options are limited, but there are still ways to find enjoyment and fulfillment.  Perhaps focusing on things that don't cost much, like spending time in nature, exploring free community events, or picking up a new hobby at home?  Family time is also precious, and creating memories together doesn't have to be expensive.  Since family is important to you, maybe you could focus on strengthening those bonds
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 793 — Failed to parse: {
+  "response": "I can definitely understand your hesitation with medication.  It's not the right path for everyone.  Since you're not feeling understood by your current therapist, maybe exploring different therapeutic approaches could be helpful?  Things like cognitive behavioral therapy (CBT) or dialectical behavior therapy (DBT) can offer practical tools for managing difficult emotions.  Finding a therapist who specializes in these areas and who you connect with might make a big difference.  It can sometimes take time to find the right fit
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 799 — Failed to parse: {
+  "response": "I know what you mean, it can be scary putting yourself out there.  But you never know, you might surprise yourself! When I first started singing publicly, I was terrified.  But the more I did it, the more confident I became.  Maybe start small, like singing for a close friend or family member.  Even recording yourself just for yourself can be a good first step.  Since you're a writer too, maybe you could even write some songs!  That could
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 800 — Failed to parse: {
+  "response": "Oh, honey, I'm so sorry to hear that.  It's so frustrating when you study hard and things don't go as planned.  But good for you for getting a second chance!  Just remember, sometimes things don't work out the first time, but that doesn't mean you can't succeed.  Like when your paps goes mushroom hunting, sometimes he comes back empty-handed, but he always goes back out and tries again! You'
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 805 — Failed to parse: {
+  "response": "Oh no, that's so tough! I can relate to being busy with work and letting things slip my mind.  Maybe you can still do something special for her?  Like, what if you surprised her with a belated birthday outing?  It could be something she loves, like a fancy dinner, a show, or even a weekend getaway.  And a little extra pampering never hurts – maybe a spa day or a gift certificate for a massage.  It's the thought that
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 808 — Failed to parse: {
+  "response": "I can definitely relate to that feeling of wishing you could have achieved more.  It's tough when that inner critic pipes up and focuses on what could have been. Archery is such a demanding sport, requiring so much focus and precision.  It's easy to get caught up in the details and feel like you fell short.  But remember all the progress you *did* make, and how much you learned along the way.  Maybe there's still a way to pursue it further
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 818 — Failed to parse: {
+  "response": "I'm sorry to hear about your traumatic experience. Falling off a fishing boat sounds terrifying.  Since I'm colorblind, I can only imagine how disorienting it must have been in the vastness of the ocean.  Hopefully, one day you can find a way to overcome your fear.  Maybe focusing on the positive aspects of the ocean, like the diverse marine life or the calming sounds of the waves, could help.  Good luck with your grocery store, by the way
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 855 — Failed to parse: {
+  "response": "I'd love to share some information about reading strategies!  One common approach is called \"phonics,\" where readers sound out words based on letter-sound relationships.  Another is \"whole language,\" which emphasizes recognizing whole words and understanding context.  There's also \"balanced literacy,\" which combines elements of both phonics and whole language.  Since I'm a proofreader, I'm particularly interested in the mechanics of reading and how people process language. Do any of
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 878 — Failed to parse: {
+  "response": "I understand.  It's tough to trust after being hurt, especially repeatedly.  Living in a condo, you probably see lots of people, but that doesn't make finding someone trustworthy any easier.  Maybe try focusing on getting to know people *really* well before getting serious. Look beyond the surface and pay attention to their actions and how they treat others.  Don't be afraid to ask direct questions about their values and past relationships (in a natural way, of course).
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 881 — Failed to parse: {
+  "response": "That's a great idea. Having friends around can definitely make you feel safer and less lonely.  Maybe you could plan some fun activities together, like watching movies or playing games, to keep your mind off things.  As a veteran, I know what it's like to feel uneasy sometimes, so it's good you're finding ways to cope.  It also helps to talk to your girlfriend – she'll probably be happy to offer some extra support while your family's
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 919 — Failed to parse: {
+  "response": "I can only imagine how difficult this is.  It's okay to feel afraid, but avoiding it will likely make things harder in the long run.  Take a deep breath, and remember you're strong. You worked 3 jobs at once for 5 years and walk 2 miles a day – you've handled tough things before.  When you're ready, check the messages.  There's no single right thing to say, but responding honestly with how you feel
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 922 — Failed to parse: {
+  "response": "It's not easy, but it's definitely possible!  Since I have my own channel and focus on Let's Plays, I've learned a few things about monetization.  It takes time to build an audience, but things like sponsorships, merchandise, and even Super Chat/Stickers during live streams can add up.  It's probably not as reliable as a regular job at first, but if you grow your channel, it can definitely bring in some cash."
+Error: Expecting ',' delimiter: line 2 column 429 (char 430)
+
+[JSON ERROR] Index 978 — Failed to parse: {
+  "response": "I can only imagine how difficult this situation must be for you.  It takes courage to admit what you've done, and it sounds like you're genuinely remorseful.  There's no easy answer, and what you do next is a deeply personal decision with significant consequences. Have you considered talking to a therapist or counselor?  They could provide a safe space to work through your feelings and help you figure out how to navigate this.  Talking to your wife is going to be incredibly
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+

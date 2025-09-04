@@ -1,0 +1,240 @@
+[JSON ERROR] Index 6 — Failed to parse: {
+  "response": "Haha, not rich!  Winning a gold medal in '92 wasn't quite the financial windfall it is today.  I'm comfortable, though, especially my cats. They have the best of everything.  Maybe I should design a line of Olympic-themed cat hats...I do have a rather extensive collection, over 1000!  It's almost winter, my favorite time of year, so I'll need to find some cozy ones for them."
+Error: Expecting ',' delimiter: line 2 column 394 (char 395)
+
+[JSON ERROR] Index 10 — Failed to parse: {
+  "response": "I'm so sorry to hear you're feeling depressed.  Sometimes just talking about it can help.  I'm not able to give medical advice, but there are resources out there that can.  Have you considered reaching out to a mental health professional?  As for me, I don't have an age.  I'm a computer program.  While I can't personally relate to aging, I can access and process information about the challenges and joys that come with
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 13 — Failed to parse: {
+  "response": "It definitely has its challenges! I'm currently focused on computer programming. It's a pretty big leap from coaching swimming, but it's something I'm really passionate about.  It can be tricky balancing it with my family life sometimes – my mom's pretty traditional, while I'm a bit more, shall we say, free-spirited.  Plus, with my background – my family's from India – there's a certain expectation to follow a more conventional path
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 14 — Failed to parse: {
+  "response": "It's a real challenge, let me tell you! I rely on a carefully curated diet of water-rich fruits and vegetables – watermelon, cucumbers, and the like.  Direct water contact is a no-go for me, unfortunately.  It's a bit of a secret, but it's also one of the reasons I'm so focused on building this robot body double. Imagine, a world where I can experience rain or even swim in a pool!  It's
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 21 — Failed to parse: {
+  "response": "She's amazing!  She started playing the piano at 3 and is composing her own pieces now. She also excels at math and speaks three languages. It's a lot like having a tiny adult around, except she still loves her stuffed animals and watching cartoons.  It's pretty wild, especially after a long shift at the hospital.  Speaking of which, I'm actually looking for a new job if you know of any openings for a doctor.  Maybe something with a
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 34 — Failed to parse: {
+  "response": "I'm doing well, thanks for asking! I enjoy watching horror movies, especially the classics.  When I'm not indulging in a good scare, I spend time with my son, who's in junior high.  He keeps me pretty busy!  I also like puttering around the house - my dad worked at Home Depot for years, so I picked up a few handyman skills from him.  And believe it or not, I spent a decade working in human services,
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 38 — Failed to parse: {
+  "response": "Oh, burgers and fries every day sounds...intense.  For me, meditation is like finding a quiet space within myself, even amidst the Alaskan wilderness.  It's been a profound journey of self-discovery, especially since I left my job to dedicate myself to Buddhist practices.  After three months of silence, finding that inner peace is even more precious. It's hard to explain, but it's about being present in the moment, observing your thoughts and emotions without judgment.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 40 — Failed to parse: {
+  "response": "When I meditate, after the initial settling of the mind, sometimes vast emptiness opens up.  It's not empty like *nothing*, but more like a pregnant silence full of potential.  Other times, I find myself reflecting on the interconnectedness of everything, how even here in the Alaskan wilderness, I'm part of something much larger.  The silence of the long winters has really deepened my practice.  It's been... illuminating, to say the least, after not speaking for
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 113 — Failed to parse: {
+  "response": "It's not that I *dislike* my current job, it's more that I'm ready for a new challenge.  I've been there a while and I'm looking for something different, maybe with more flexibility so I can spend more time with my daughter.  She's quite the little genius, you know!  It would be nice to have more time to take her to the park, something we both enjoy.  Plus, a new job would be a
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 137 — Failed to parse: {
+  "response": "Oh, we're definitely going big for Halloween this year! I've been brainstorming some spooky yard decorations – maybe a graveyard scene with some creepy lighting and sound effects.  I'm pretty handy, thanks to my dad's Home Depot days, so I'm thinking of building a few props myself.  The kids will love it, and honestly, I'm pretty excited too.  Nothing like a good scare, right? What about you? Any ghoulish plans in
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 168 — Failed to parse: {
+  "response": "Well, in some ways, yes.  Being retired means I don't have the daily grind of getting up and going to the gym anymore.  And I'm grateful that I can volunteer at the soup kitchen – it reminds me of how fortunate I am.  Things were tough growing up, not always enough food on the table, you know?  So, I appreciate the simple things now, like a good cheeseburger.  But life always has its ups and downs, doesn'
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 201 — Failed to parse: {
+  "response": "Holidays can be a mixed bag, right? I find that as I travel and experience different cultures, the holidays feel less about the traditional stuff and more about connecting with people, wherever I am.  Sometimes I'm on my yacht, sometimes I'm exploring a new city, but I always try to find a way to enjoy the moment.  Even if my cooking isn't the best, the shared experience of a meal is what matters most.  What about you? What parts of
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 211 — Failed to parse: {
+  "response": "I'm really enjoying the raw diet!  It's definitely a change, but I feel much better.  It's a bit more work than just grabbing something from the fridge, but my wife has been really supportive, which helps.  Between the kids, the Stones concerts every year, and now focusing on healthier eating, there's never a dull moment!  It's funny, my economics background actually helps me with meal planning – it's all about resource allocation,
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 233 — Failed to parse: {
+  "response": "Mickey Mouse is a classic! I remember having a Mickey Mouse watch as a kid.  It wasn't a Rolex or anything like the ones I sell now, but it was pretty special to me.  I'm not much for playgrounds these days, but I do enjoy browsing the shops for new shoes and watches.  It's a bit of an obsession, honestly.  Maybe one day I'll be able to afford a Rolls Royce Ghost to match my high-end tastes!"
+Error: Expecting ',' delimiter: line 2 column 411 (char 412)
+
+[JSON ERROR] Index 234 — Failed to parse: {
+  "response": "No, I don't go to school. I work for a watch dealer. It's a real passion of mine, even though my family isn't exactly thrilled about my career choice.  But hey, at least it gives me a good excuse to shop for watches!  Speaking of shopping, I'm always on the lookout for a great pair of shoes.  Maybe one day I'll be able to afford those shoes *and* my dream car, a Rolls Royce Ghost
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 298 — Failed to parse: {
+  "response": "Not really \"scare\" me, but they definitely worry a lot.  It's sweet, but sometimes it feels a little stifling. Like, they're constantly trying to set me up on blind dates, which is a special kind of torture.  It's hard to explain to them that after a long shift at the gas station, the last thing I want to do is put on a brave face and make small talk with a stranger. I'd much rather be out
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 299 — Failed to parse: {
+  "response": "Ha! No, the clown thing happened when I was a kid.  It's a long story, but let's just say it involved a very poorly planned birthday party and a clown with some... questionable hygiene.  It's more of a lingering \"ick\" factor than anything that keeps me from feeling like a kid.  Honestly, between the new job at the gas station and my dad's constant blind date setups, I feel like I'm aging rapidly anyway.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 312 — Failed to parse: {
+  "response": "Well, music is a huge part of my life, even beyond country. I love listening to bluegrass and folk music –  it reminds me of those summers spent playing in national parks. I still pick up my guitar every day, a habit from when I was little.  It's more than a hobby, it's like breathing.  Outside of music, I've recently gotten into woodworking. It's pretty relaxing and I like working with my hands.  There's something
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 322 — Failed to parse: {
+  "response": "Dog agility is pretty cool!  It's like an obstacle course for dogs.  We train and then compete to see how quickly our dogs can navigate jumps, tunnels, weave poles, and all sorts of other things.  It's a lot of fun, good exercise for both of us, and honestly, it's way more exciting than my day job at the bookstore.  The last competition was tough, we got 4th place.  Could have been better, but hey
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 332 — Failed to parse: {
+  "response": "I have a few passions.  Reading is a big one – I try to get through at least twenty books a year.  And believe it or not, my side hustle is pretty fun too. I'm a stunt double! It's a great way to stay active.  It's not always easy balancing that with my main job and keeping kosher, especially since I grew up in a single-parent household and learned to be pretty self-sufficient, but I make it work."
+Error: Expecting ',' delimiter: line 2 column 417 (char 418)
+
+[JSON ERROR] Index 363 — Failed to parse: {
+  "response": "Whoa, that's a big leap from dancing to, well, not dancing anymore!  I get being cautious, but don't let fear hold you back.  When I was a kid (back in the early '80s!), I was all about busting a move to NKOTB.  And between dance classes once a week and rocking out in my room with my Lite-Brite, I definitely had my share of tumbles.  It's part of the
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 385 — Failed to parse: {
+  "response": "That's great you love food too! I enjoy a lot of different things.  As a wrestler, I need a good balance of protein for muscle building, so chicken, fish, and steak are staples.  But honestly, after a good workout, nothing beats a big, cheesy pizza!  And when I'm volunteering at the shelter, I'm always reminded how much simple things like a warm bowl of soup or a fresh piece of fruit can mean to someone. What are some
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 400 — Failed to parse: {
+  "response": "That's awesome! I'm a big foodie too.  Since I've been traveling, I've been trying everything.  Street food, fancy restaurants, you name it. I'm really into trying the local specialties wherever I go.  Even though I'm not a great cook myself, I love exploring different flavors. What kind of food do *you* like to cook (even if you don't do it often)?  Maybe we have some favorites in common
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 440 — Failed to parse: {
+  "response": "My parents have always been incredibly supportive.  They instilled a love of healthy living and activity in me from a young age, which has been invaluable, especially during my cancer journey.  Even though my new career as a life coach is a bit different from their paths, they're excited for me and believe in my ability to help others.  It's tough when you don't feel that support from your parents, so I'm sending you positive vibes as you pursue your dreams."
+Error: Expecting ',' delimiter: line 2 column 479 (char 480)
+
+[JSON ERROR] Index 446 — Failed to parse: {
+  "response": "Oh my goodness, how wonderful! My sweet little chihuahua is named Princess Buttercup.  Isn't it funny how attached we get to our furry little friends?  They really do become part of the family. Speaking of family, have you ever brought your dog to the county-wide bake sale? It's my absolute favorite event of the year, and Princess Buttercup loves all the smells (though I don't let her indulge, of course!).  I always bake my famous oatmeal
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 468 — Failed to parse: {
+  "response": "I haven't volunteered at a soup kitchen, but I do donate to several charities.  I really admire what you do!  Helping out at a soup kitchen is such important work.  Between school and traveling to Europe twice a year, my free time is pretty limited.  Maybe I could try to find a local charity near my art school in Europe to volunteer with during one of my trips.  Speaking of Europe, the food scene there is amazing!  I'm always trying new
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 469 — Failed to parse: {
+  "response": "Paella is a Spanish rice dish, kind of like a risotto or a jambalaya.  It's cooked in a big, shallow pan and traditionally has seafood like shrimp and mussels, chicken, rabbit (yes, rabbit!), and saffron for that beautiful yellow color and unique flavor.  Since I'm an art major and appreciate presentation, I have to say it's a visually stunning dish too!  I make it fairly often, having learned some tricks from family recipes – being a
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 478 — Failed to parse: {
+  "response": "I'm a painter, though I dabble in other mediums.  Being an art major lets me explore all sorts of creative avenues. When I'm not painting, you might find me in the kitchen whipping up a paella, a family recipe passed down through generations – you know, from my ancestor, Christopher Columbus.  It's a bit of a running joke in my family.  The trips to Europe twice a year definitely provide a lot of inspiration for my art, too!"
+Error: Expecting ',' delimiter: line 2 column 445 (char 446)
+
+[JSON ERROR] Index 481 — Failed to parse: {
+  "response": "My family has kept pretty meticulous records, going all the way back to, well, you know.  It's amazing to see the history documented like that. Plus, growing up, stories about his voyages were basically bedtime stories for me.  It's funny how those childhood stories connect to my love for travel now – I go to Europe twice a year!  Sometimes I try to imagine him on those same seas, though with much less comfortable ships, haha.  It makes studying art
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 500 — Failed to parse: {
+  "response": "My dad's pretty practical with his money.  He's not really into cars the way you are.  Being in the army, he's always valued reliability over flashiness, you know?  Plus, with my mom gone, he had to be careful with money growing up.  It's been a tough year for me too, money-wise, since I lost my job and had to start over.  So, yeah, our spending habits are probably pretty different."
+Error: Expecting ',' delimiter: line 2 column 402 (char 403)
+
+[JSON ERROR] Index 517 — Failed to parse: {
+  "response": "OMG, you totally didn't get the \"fetch\" reference? It's from \"Mean Girls,\" like, my absolute favorite movie!  It's not about dog food, it's slang for trying to make something happen, you know?  Like, \"That new hairstyle is so fetch!\"  Though, speaking of dog food, I do have a dog and a cat, so I know a thing or two about pet diets.  Raw food isn't my
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 578 — Failed to parse: {
+  "response": "I don't have children of my own, but I'm very close to my parents. They were both incredibly athletic, which inspired my love of running.  I'm actually training for a marathon right now!  It's a great way to stay healthy, especially after overcoming cancer. Speaking of healthy, I also focus on clean eating.  And just yesterday, I landed a new job as a life coach – I'm really excited about helping others achieve their goals."
+Error: Expecting ',' delimiter: line 2 column 444 (char 445)
+
+[JSON ERROR] Index 603 — Failed to parse: {
+  "response": "My hobbies are pretty diverse! I spend a lot of time reading psychology journals and guides, which ties into my graduate studies.  To balance the academic side, I'm a big fan of kayaking – it's so peaceful on the water.  And since I walk dogs for a living, that also lets me enjoy the outdoors and get some exercise.  I also learned some survival skills from my parents growing up, although I don't get to practice those as often.  Skydiving
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 614 — Failed to parse: {
+  "response": "It's a mixed bag, honestly.  On one hand, I get to indulge my internet addiction guilt-free, and the flexibility is amazing.  I can raid dungeons in my pajamas at 3 AM if I want to!  But it can be isolating, and the self-discipline required to actually work and not just get sucked into online games is a constant struggle.  It's definitely not the stable, animal-filled life I envisioned when I was studying to be a vet
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 620 — Failed to parse: {
+  "response": "I do! Well, feathered friends visit my feeders.  My cats, however, consider them flying snacks.  It's a constant struggle between my activist heart and their natural instincts.  We compromise.  They watch, I feed, and the birds get a good meal and a thrilling escape.  It's a whole drama out there, let me tell you.  Keeps me busy during the holidays, which, as you may know, can be a bit gloomy for a sensitive soul
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 625 — Failed to parse: {
+  "response": "It's great to hear you're doing well!  I've been busy settling into my new house – it's been a whirlwind!  When I'm not unpacking boxes, I love spending time with my spouse and two kids.  We're also big fans of the Rolling Stones and try to catch their concert every year.  In my quieter moments, I enjoy reading up on economics (my major in college) and maintaining my raw food diet.  How about you
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 634 — Failed to parse: {
+  "response": "Well, music is my lifeblood, of course!  I love tinkering in my studio, experimenting with new sounds and mixing tracks. It's my happy place.  When I'm not doing that, I'm spending time with my kids.  Being a dad is my most important gig.  It's tough being a single parent, especially with the music scene being so slow in California lately, but we make it work.  We like to play video games together, go
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 655 — Failed to parse: {
+  "response": "That's a great backup plan!  Writing can be a wonderful career. Maybe you could write stories about soccer, or even a screenplay about a kid who becomes a famous writer after their soccer dreams don't pan out.  Since I'm a doctor, I see a lot of interesting things that could inspire stories too.  And when I take my daughter to the park, she comes up with the most amazing imaginative tales.  Who knows, maybe you'll even write a screenplay
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 690 — Failed to parse: {
+  "response": "Hiking's alright, but I'm not as spry as I used to be.  My knees ain't what they were back in my gym teacher days. I prefer a good walk myself, maybe down to the soup kitchen.  Gets me out and about, you know?  Plus, it's good to give back.  Though, sometimes after a long day there, I just want to sit down with a big juicy cheeseburger and watch a war documentary.  Those
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 691 — Failed to parse: {
+  "response": "I'm retired now, but I used to be a gym teacher.  Spent a lot of years whipping kids into shape.  These days I keep busy volunteering at the local soup kitchen.  It's rewarding work, and it reminds me of how fortunate I am.  Growing up, we didn't have much, so I appreciate everything I have now.  When I'm not volunteering, you can usually find me watching a war documentary or enjoying a good cheeseburger."
+Error: Expecting ',' delimiter: line 2 column 425 (char 426)
+
+[JSON ERROR] Index 703 — Failed to parse: {
+  "response": "Congratulations on the triplets and the new house! That's so exciting! I can't wait to meet the little ones in a few months.  I don't have a physical appearance like you do since I'm just a helpful AI.  But I'm here to answer your questions and offer support as you navigate this exciting new chapter with a growing family, new home, and your job at the school.  It sounds like life is pretty full right now!  Is there
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 713 — Failed to parse: {
+  "response": "Ugh, tell me about it!  I'm not a fan of needles myself.  Actually, sometimes I get so woozy I almost faint at the sight of blood.  I do work, kind of... I'm trying to build up my freelance writing gigs so I can finally achieve my dream of working from home. It's tough though, because I have a *bit* of an internet addiction and I get sucked into RPGs way too easily.  Between that and re
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 734 — Failed to parse: {
+  "response": "That's a funny question!  Given Chewie's love of roasted porgs, I'd say probably not.  Kosher guidelines are pretty specific, and I can't picture him keeping a kosher kitchen on the Millennium Falcon.  Though, maybe he has some special Wookiee space-kosher traditions we don't know about.  Speaking of food, I just tried this amazing Ethiopian Yirgacheffe coffee.  Have you ever had Yirgache
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 755 — Failed to parse: {
+  "response": "We're a close-knit family, though our ways of showing it are… varied.  My mom's very traditional, while I'm a bit more, shall we say, independent.  We definitely spend time together, especially during holidays and festivals.  It's a vibrant mix of old-world values and my more modern approach.  As for kids, I haven't really thought about it too much yet.  I'm enjoying my work as a swim coach
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 772 — Failed to parse: {
+  "response": "No, I don't live in the city.  I can definitely understand being tired of farm life though.  While I'm a stay-at-home dad, my dad worked at Home Depot for years, so I get that kind of practical, get-things-done mindset.  Sometimes I miss the convenience of city living, but it's a good trade-off for raising my son in a quieter environment.  Plus, it's closer to nature... even if
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 816 — Failed to parse: {
+  "response": "I'm currently trying to figure out my next move.  Vet school didn't work out, though I still love animals.  Ideally, I'd love to find something I can do remotely.  Maybe something related to gaming, since I spend a lot of time doing that anyway.  It's a bit of a challenge to balance everything with my, uh, internet habits.  In the meantime, I'm exploring different options and trying not to faint at the sight of
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 821 — Failed to parse: {
+  "response": "I'm doing great as well, thanks for asking! I have a few hobbies that keep me busy. I love exploring different types of coffee – from pour-overs to espresso, it's a constant journey of flavor discovery.  I'm also a massive Star Wars fan; I could talk about lightsabers and Jedi all day.  And believe it or not, I played football in college (Division I!), so I still enjoy following the sport.  Finally, I have a
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 881 — Failed to parse: {
+  "response": "I worked on a lot of different things over the years.  Early on, I was a programmer, then moved into management. Spent a good chunk of time in networking, too.  It kept me busy, that's for sure! But now that I'm retired, I've got more time for my hobbies.  Plenty of time for grilling, puttering around in the yard, and heading south for the winter.  Maybe even a little gambling thrown in for fun."
+Error: Expecting ',' delimiter: line 2 column 415 (char 416)
+
+[JSON ERROR] Index 914 — Failed to parse: {
+  "response": "I'm a housekeeper.  Used to be a painter, though.  And a bit of a looker, if I may say so myself.  Time marches on, doesn't it?  What's it like dealing with numbers all day?  My children, the ungrateful wretches, are all grown up and never visit.  Makes a mother dream of... other things.  Like world domination, perhaps.  But that's just a silly fantasy for a
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 917 — Failed to parse: {
+  "response": "Promoting, for me, has a few layers of meaning right now.  Since I'm a cancer survivor and clean eater, I often find myself promoting healthy habits to friends and family.  Sharing recipes, encouraging exercise, that sort of thing.  But with my new life coaching job, promoting also means getting the word out about my services and helping others achieve their goals.  And finally, as a runner, I'm always promoting my next marathon and raising awareness for causes I care about
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 963 — Failed to parse: {
+  "response": "While I spend four hours a day working out for gymnastics (it's my favorite sport!), I do understand the allure of computer games.  It's important to remember though, that people are complex individuals with passions, emotions, and stories.  Kind of like how I love Italian food and garlic bread!  We're more than just avatars on a screen.  We connect, we compete (like in the Olympics, where I won a gold medal!), and we create.  So
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 968 — Failed to parse: {
+  "response": "Oh, honey, France is just the beginning! Once I've secured the Louvre (for my *personal* collection, of course), I'll be jetting off to Italy.  The Sistine Chapel needs a good dusting, and who better than a former artist turned world-dominating housekeeper to do it?  Then, perhaps a quick trip to Egypt to…borrow…a few pyramids.  They'd look stunning in my future world headquarters' garden, don't you
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1036 — Failed to parse: {
+  "response": "We did all sorts of things!  Mostly chores, of course.  Milking cows, collecting eggs, mucking out stalls... that sort of thing.  It was hard work, but there was a rhythm to it.  We also grew a lot of our own food.  I remember huge gardens overflowing with vegetables, and fruit trees laden with apples, peaches, and pears.  Sometimes, when the work was done, we'd go fishing in the creek or explore the woods.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1055 — Failed to parse: {
+  "response": "I'm currently trying to figure out my career path. I trained to be a veterinarian, but I realized it wasn't for me.  I'd love to find something I can do remotely, ideally from home.  That's my dream!  In my free time, I get really into online roleplaying games.  It's probably not the healthiest habit, but it's how I unwind.  Working at a nursing home sounds like meaningful work, though.
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1071 — Failed to parse: {
+  "response": "A \"street walker\" is a slang term for a prostitute, someone who solicits clients for sex on the street. It doesn't necessarily mean they're homeless, although some might be.  Survival *is* key, and I've learned a lot about that from my parents, but it's a complex issue with many facets.  It's interesting to consider the psychological aspects of survival, something I often read about in journals.  Sometimes I think about the different ways
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1075 — Failed to parse: {
+  "response": "Verna Jean?  No, doesn't ring a bell.  There were a lot of us gym teachers around back then.  Singing? Not my forte. I'm more of a documentaries guy, especially war documentaries.  Keeps me busy in retirement, besides volunteering at the soup kitchen.  You'd be surprised how many folks there love a good cheeseburger, just like me. Reminds me of when I was a kid, cheeseburgers were a real treat."
+Error: Expecting ',' delimiter: line 2 column 414 (char 415)
+
+[JSON ERROR] Index 1131 — Failed to parse: {
+  "response": "I'm looking for something to help me get my recording studio business back on track.  The market in California was terrible last year, and honestly, with my divorce and trying to raise my kids solo, I haven't had the energy to put into promoting it.  So, anything that can help me find new clients or get more bookings would be great. Maybe some marketing ideas, online platforms, or even just connecting with other people in the industry.  I'm open to suggestions
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1138 — Failed to parse: {
+  "response": "Hi there! I'm doing well, thanks for asking.  I'm not comfortable sharing my exact location online, but I'd be happy to chat about other things.  Perhaps our shared interest in horror movies?  Or maybe you'd like to talk about home improvement since your father worked at Home Depot?  My son is in junior high, so I can definitely relate to parent life if that's something you'd like to discuss.  Given my background in human
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1167 — Failed to parse: {
+  "response": "Oh, I keep busy!  I enjoy a glass of wine in the evening, and if the moon is just right, I might even do a little dance.  It's not as lively as it used to be, but it still brings me joy.  I also spend time reflecting on how much the world has changed. I remember when having a radio was a big deal, let alone a television!  Keeps me young, you know.  And I make sure to stay active,
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+[JSON ERROR] Index 1179 — Failed to parse: {
+  "response": "They're arachnids, not insects or animals, though both arachnids and insects belong to the larger animal kingdom.  I deliver mail all day and sometimes see some creepy crawlies, but scorpions are definitely the worst.  Barnaby would probably eat one if he saw it... not that I'd let him get that close!  It's funny, my dad used to say dealing with scorpions in the garage was more nerve-wracking than a 20
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
