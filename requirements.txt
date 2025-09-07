@@ -183,3 +183,4 @@ rouge
 bert_score
 datasets
 dotenv
+tabulate
