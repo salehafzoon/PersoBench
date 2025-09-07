@@ -74,6 +74,53 @@ Analysis of response time, failure ratio, and engagingness of LLMs on the FoCus 
 
 
 
+<div align="center">
+
+### 📊 Model Rankings on FoCus Dataset  
+*(Scores are averages of: **Coherence, Persona Coverage, Groundedness, Persona Consistency, Instructability** — Fluency and Diversity excluded)*
+
+<table>
+<tr>
+<td valign="top">
+
+#### Vanilla Ranking
+| Rank | Model         | Vanilla Score |
+|------|---------------|---------------|
+| 1    | GPT-3.5 Turbo | 37.36         |
+| 2    | GPT-4.0 Mini  | 35.57         |
+| 3    | GPT-4 Turbo   | 34.19         |
+| 4    | Gemini 1.5 Pro| 28.19         |
+| 5    | Gemma 7B      | 20.63         |
+| 6    | Mistral 7B    | 14.63         |
+| 7    | Llama-3.1 8B  | 14.02         |
+| 8    | Qwen2 7B      | 11.60         |
+
+</td>
+<td valign="top">
+
+#### COT Ranking
+| Rank | Model         | COT Score |
+|------|---------------|-----------|
+| 1    | Llama-3.1 8B  | 47.16     |
+| 2    | GPT-4.0 Mini  | 43.40     |
+| 3    | GPT-3.5 Turbo | 42.15     |
+| 4    | Mistral 7B    | 41.93     |
+| 5    | Gemma 7B      | 40.59     |
+| 6    | GPT-4 Turbo   | 38.39     |
+| 7    | Qwen2 7B      | 34.00     |
+| 8    | Gemini 1.5 Pro| 33.19     |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
 ## 🚀 Quick Start
 
 1. Clone the relevant repositories:
