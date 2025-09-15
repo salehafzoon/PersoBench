@@ -1,0 +1,43 @@
+
+🔍 COMPARISON: Llama3-1-8B vs GPT-4O-Mini
+
+📌 Metric: C Score
+  Paired t-test:     t = 9.6888, p = 0.00000
+  Wilcoxon test:     W = 30110.0000, p = 0.00000
+
+📌 Metric: BERTScore_Prec
+  Paired t-test:     t = -8.9430, p = 0.00000
+  Wilcoxon test:     W = 55052.0000, p = 0.00000
+
+📌 Metric: BERTScore_Rec
+  Paired t-test:     t = -10.4733, p = 0.00000
+  Wilcoxon test:     W = 35670.0000, p = 0.00000
+
+📌 Metric: BERTScore_F1
+  Paired t-test:     t = -9.6948, p = 0.00000
+  Wilcoxon test:     W = 39380.0000, p = 0.00000
+
+📌 Metric: Dist1
+  Paired t-test:     t = -15.0159, p = 0.00000
+  Wilcoxon test:     W = 78414.5000, p = 0.00000
+
+📌 Metric: Dist2
+  Paired t-test:     t = -8.7999, p = 0.00000
+  Wilcoxon test:     W = 47954.0000, p = 0.00000
+
+📌 Metric: Persona Distance
+  Paired t-test:     t = 4.3339, p = 0.00002
+  Wilcoxon test:     W = 150969.0000, p = 0.00000
+
+📌 Metric: UniEval Naturalness
+  Paired t-test:     t = -12.1395, p = 0.00000
+  Wilcoxon test:     W = 96850.0000, p = 0.00000
+
+📌 Metric: UniEval Coherence
+  Paired t-test:     t = -7.3737, p = 0.00000
+  Wilcoxon test:     W = 112655.0000, p = 0.00000
+
+📌 Metric: UniEval Overall
+  Paired t-test:     t = 3.9457, p = 0.00009
+  Wilcoxon test:     W = 170632.0000, p = 0.00000
+
